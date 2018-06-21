@@ -1,9 +1,11 @@
-﻿h1 {   
+﻿
+h1 {
+    text-align: center;
     padding: 50px;
 }
 
 header {
-    
+    text-align: center;
     background-color: azure;
 }
 
@@ -26,11 +28,10 @@ header {
     max-height: 100%;
 }
 
+p {
+    text-align: center;
+}
 
 #skills {
     margin: 0% 10%;
-}
-.header-div
-{
-    text-align: center;
 }
