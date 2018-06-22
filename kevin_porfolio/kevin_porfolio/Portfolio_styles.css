@@ -42,3 +42,7 @@ p {
     color: white;
     font-weight: bold;
 }
+.butn-size{
+    height: 50px;
+    width: 50px;
+}
