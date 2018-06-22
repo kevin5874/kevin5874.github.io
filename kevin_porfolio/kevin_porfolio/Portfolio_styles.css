@@ -46,3 +46,16 @@ p {
     height: 50px;
     width: 50px;
 }
+#HTMLmodal {
+    background: linear-gradient(to right, orange 0%,blue 100%);
+}
+#JSmodal{
+    background-color: #FFFFD5;
+}
+.modal_header{
+    font-weight: bold;
+    text-shadow: 1px 1px;
+}
+.modal-header {
+    margin: 0 auto;
+}
