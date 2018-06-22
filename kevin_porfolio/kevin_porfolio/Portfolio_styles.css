@@ -35,3 +35,10 @@ p {
 #skills {
     margin: 0% 10%;
 }
+.row-langs {
+    background: linear-gradient(to right, #7d7e7d 0%,#0e0e0e 100%);
+}
+.click-me{
+    color: white;
+    font-weight: bold;
+}
